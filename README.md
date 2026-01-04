@@ -39,41 +39,7 @@
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- ================== ABOUT ME SECTION ===================== -->
-<!-- ========================================================= -->
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
-  SYSTEM PROFILE
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-</h2>
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Bivek Mohan Bhattarai"
-        self.role = "Software Developer & ML Engineer"
-        self.location = "Nepal"
-        self.languages = ["Java", "JavaScript", "Python", "C++"]
-        self.interests = ["Machine Learning", "Backend Systems", "Algorithms"]
-    
-    def current_focus(self):
-        return [
-            "Building scalable backend systems",
-            "Training ML models and algorithms",
-            "Designing efficient data pipelines",
-            "Contributing to open source"
-        ]
-```
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
-<br/>
 
 <!-- ========================================================= -->
 <!-- ==================== TECH ARSENAL ======================= -->
@@ -82,15 +48,8 @@ class Developer:
 <h2 align="center">
   TECH ARSENAL
 </h2>
-
 <p align="center">
-  <img src="/images/screenshot-202026-01-04-20at-2018.png" alt="Tech Stack" width="90%"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,linux&theme=dark" />
 </p>
 
 <br/>
@@ -102,12 +61,6 @@ class Developer:
 <h2 align="center">
   SYSTEM TELEMETRY
 </h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bivek127&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00e5ff&text_color=ffffff&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bivek127&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00e5ff&border_radius=10"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bivek127&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=FF00FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=10" alt="GitHub Streak Stats"/>
 </p>
@@ -120,25 +73,27 @@ class Developer:
 
 <br/>
 
+
 <!-- ========================================================= -->
 <!-- ================ 3D CONTRIBUTION GRAPH ================== -->
 <!-- ========================================================= -->
 
-<h2 align="center">
-  3D CONTRIBUTION MATRIX
-</h2>
+<h2 align="center">3D Contribution Matrix</h2>
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=bivek127&theme=radical&area_color=FF00FF&title_color=00E5FF&legend_color=39FF14&grid_color=FF1493&ring_color=00E5FF" alt="3D Contribution Graph" width="100%"/>
+  <img 
+    src="https://github-profile-3d-contrib.vercel.app/api?username=bivek127"
+    alt="3D Contribution Graph"
+  />
 </p>
-
-<br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
+    width="100%"
+  />
 </p>
 
-<br/>
 
 <!-- ========================================================= -->
 <!-- ================ ACTIVITY VISUALIZATION ================= -->
@@ -199,29 +154,6 @@ class Developer:
 </p>
 
 <br/>
-
-<!-- ========================================================= -->
-<!-- =================== PROFILE METRICS ===================== -->
-<!-- ========================================================= -->
-
-<h2 align="center">
-  PROFILE METRICS
-</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bivek127&style=for-the-badge&color=FF00FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/bivek127?style=for-the-badge&color=00E5FF&logo=github&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/bivek127?style=for-the-badge&color=39FF14&logo=github&label=STARS" alt="Stars"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
-<br/>
-
 <!-- ========================================================= -->
 <!-- ==================== CONNECT WITH ME ==================== -->
 <!-- ========================================================= -->
@@ -241,9 +173,6 @@ class Developer:
     <img src="https://img.shields.io/badge/Kaggle-39FF14?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
-
-<h3 align="center">bivekmb127@gmail.com</h3>
-
 <br/>
 
 <p align="center">
@@ -256,14 +185,11 @@ class Developer:
 <!-- ======================= FOOTER ========================== -->
 <!-- ========================================================= -->
 
-<h2 align="center">
-  "Code is poetry, algorithms are art"
-</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Happy+Coding!" alt="Footer Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=bivek&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 </p>
