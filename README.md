@@ -58,7 +58,7 @@
 <!-- ================= GITHUB STATISTICS ===================== -->
 <!-- ========================================================= -->
 
-<h2 align="center">
+<!-- <h2 align="center">
   SYSTEM TELEMETRY
 </h2>
 <p align="center">
@@ -71,14 +71,14 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<br/>
+<br/> -->
 
 
 <!-- ========================================================= -->
 <!-- ================ 3D CONTRIBUTION GRAPH ================== -->
 <!-- ========================================================= -->
 
-<h2 align="center">3D Contribution Matrix</h2>
+<!-- <h2 align="center">3D Contribution Matrix</h2>
 
 <p align="center">
   <img 
@@ -92,14 +92,14 @@
     src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
     width="100%"
   />
-</p>
+</p> -->
 
 
 <!-- ========================================================= -->
 <!-- ================ ACTIVITY VISUALIZATION ================= -->
 <!-- ========================================================= -->
 
-<h2 align="center">
+<!-- <h2 align="center">
   ACTIVITY FLOW ANALYSIS
 </h2>
 
@@ -113,7 +113,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" />
 </p>
 
-<br/>
+<br/> -->
 
 <!-- ========================================================= -->
 <!-- ================== SNAKE ANIMATION ====================== -->
@@ -139,7 +139,7 @@
 <!-- ================= ACHIEVEMENTS & TROPHIES =============== -->
 <!-- ========================================================= -->
 
-<h2 align="center">
+<!-- <h2 align="center">
   ACHIEVEMENTS & MILESTONES
 </h2>
 
@@ -153,7 +153,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 </p>
 
-<br/>
+<br/> -->
 <!-- ========================================================= -->
 <!-- ==================== CONNECT WITH ME ==================== -->
 <!-- ========================================================= -->
